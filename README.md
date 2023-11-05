@@ -1,0 +1,16 @@
+# Algoritmo
+- assunto: [Direito - Barra 8007 - AC]
+- conteúdo: Escolha 5 conceitos da lista a seguir e crie um arquivo de texto com uma breve explicação de cada um dos conceitos escolhidos com referências;
+
+1. Lucas Garcia
+
+Algoritmo: Um algoritmo é um conjunto de instruções ou passos precisos e ordenados que são projetados para realizar uma tarefa específica ou resolver um problema. Os algoritmos são fundamentais na computação e na programação, pois fornecem um plano lógico para resolver problemas e executar tarefas. Eles podem variar em complexidade, desde simples algoritmos para somar dois números até algoritmos complexos para tarefas como ordenação de dados ou aprendizado de máquina.
+
+Banco de dados: Um banco de dados é um sistema organizado de armazenamento de informações estruturadas que permite a coleta, armazenamento, recuperação e gerenciamento eficiente de dados. Os bancos de dados são usados para armazenar uma ampla variedade de informações, como registros de clientes, transações comerciais, dados científicos e muito mais. Eles consistem em tabelas, onde os dados são organizados em linhas e colunas.
+
+Neutralidade da Rede: A neutralidade da rede é o princípio que defende a igualdade de tratamento de todos os dados e tráfego na internet, independentemente de sua fonte, destino, conteúdo ou tipo de aplicação. Isso significa que os provedores de serviços de internet (ISPs) devem tratar todos os dados de maneira imparcial, sem discriminar ou priorizar determinados serviços, aplicativos ou sites sobre outros. A neutralidade da rede visa garantir que a internet permaneça aberta e não seja controlada por interesses comerciais, permitindo a livre competição e acesso equitativo a informações e recursos online. Isso é importante para manter a liberdade de expressão, a inovação e a acessibilidade na internet.
+
+Zero Rating: Zero rating é uma prática em que os provedores de serviços de internet (ISPs) ou operadoras móveis oferecem acesso gratuito ou com tarifas reduzidas a determinados serviços, aplicativos ou sites específicos. Isso significa que o tráfego de dados gerado por esses serviços não é contabilizado nos limites de dados do plano de dados do usuário.
+Embora possa parecer uma vantagem para os consumidores, o zero rating levanta preocupações em relação à neutralidade da rede. Isso ocorre porque, ao oferecer acesso gratuito ou subsidiado a serviços específicos, os ISPs podem criar um ambiente em que alguns serviços sejam preferenciais em relação a outros, criando uma competição desigual. Isso pode prejudicar a inovação e a igualdade de acesso à internet.
+
+Jurimetria: A jurimetria é a aplicação da análise de dados estatísticos e métodos quantitativos para o campo do direito. Ela envolve a coleta e a análise de dados relacionados a processos judiciais, decisões de tribunais e tendências legais para obter insights e informações que possam ajudar na tomada de decisões jurídicas informadas. A jurimetria é usada para identificar padrões, prever resultados de casos, medir o desempenho de sistemas judiciais e até mesmo para orientar estratégias legais com base em dados objetivos. Ela desempenha um papel importante na modernização e na eficiência do sistema legal.
